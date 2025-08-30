@@ -107,7 +107,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Prabasajee**
-- GitHub: [@prabasajee](https://github.com/VishalMaurya15031)
+- GitHub: [@VishalMaurya](https://github.com/VishalMaurya15031)
 - Project: [Coffee Shop](https://github.com/VishalMaurya15031/coffee-shop)
 
 ## 🙏 Acknowledgments
@@ -121,4 +121,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Star this repository if you found it helpful!
 
 **[🔗 Live Demo](https://github.com/VishalMaurya15031/coffee-shop)** | **[📧 Report Bug](https://github.com/VishalMaurya15031/coffee-shop)** | **[💡 Request Feature](https://github.com/VishalMaurya15031/coffee-shop)**
+
 
