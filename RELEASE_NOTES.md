@@ -84,8 +84,8 @@ coffee-shop/
 - ✅ Mobile (320px - 767px)
 
 ### 🔗 **Links**
-- **Live Demo**: [https://prabasajee.github.io/coffee-shop](https://prabasajee.github.io/coffee-shop)
-- **Repository**: [https://github.com/prabasajee/coffee-shop](https://github.com/prabasajee/coffee-shop)
+- **Live Demo**: [https://prabasajee.github.io/coffee-shop](https://github.com/VishalMaurya15031/coffee-shop)
+- **Repository**: [https://github.com/prabasajee/coffee-shop](https://github.com/VishalMaurya15031/coffee-shop)
 - **Documentation**: [README.md](README.md)
 - **Contributing**: [CONTRIBUTING.md](docs/CONTRIBUTING.md)
 
@@ -112,12 +112,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## How to Use This Release
 
 ### For Users:
-1. Visit the live demo at [https://prabasajee.github.io/coffee-shop](https://prabasajee.github.io/coffee-shop)
+1. Visit the live demo at [https://prabasajee.github.io/coffee-shop](https://github.com/VishalMaurya15031/coffee-shop)
 2. Browse the menu and products
 3. Use the contact form to get in touch
 
 ### For Developers:
-1. Clone the repository: `git clone https://github.com/prabasajee/coffee-shop.git`
+1. Clone the repository: `git clone https://github.com/VishalMaurya15031/coffee-shop.git`
 2. Open `index.html` in your browser
 3. For development: Run `npm install` and `npm start`
 
@@ -131,4 +131,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Full Changelog**: Initial release
 
-**Download**: [Source code (zip)](https://github.com/prabasajee/coffee-shop/archive/v1.0.0.zip) | [Source code (tar.gz)](https://github.com/prabasajee/coffee-shop/archive/v1.0.0.tar.gz)
+**Download**: [Source code (zip)](https://github.com/VishalMaurya15031/coffee-shop/archive/v1.0.0.zip) | [Source code (tar.gz)](https://github.com/VishalMaurya15031/coffee-shop/archive/v1.0.0.tar.gz)
