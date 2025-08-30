@@ -84,8 +84,8 @@ coffee-shop/
 - ✅ Mobile (320px - 767px)
 
 ### 🔗 **Links**
-- **Live Demo**: [https://prabasajee.github.io/coffee-shop](https://github.com/VishalMaurya15031/coffee-shop)
-- **Repository**: [https://github.com/prabasajee/coffee-shop](https://github.com/VishalMaurya15031/coffee-shop)
+- **Live Demo**: [https://github.com/VishalMaurya15031/coffee-shop](https://github.com/VishalMaurya15031/coffee-shop)
+- **Repository**: [https://github.com/VishalMaurya15031/coffee-shop](https://github.com/VishalMaurya15031/coffee-shop)
 - **Documentation**: [README.md](README.md)
 - **Contributing**: [CONTRIBUTING.md](docs/CONTRIBUTING.md)
 
@@ -112,7 +112,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## How to Use This Release
 
 ### For Users:
-1. Visit the live demo at [https://prabasajee.github.io/coffee-shop](https://github.com/VishalMaurya15031/coffee-shop)
+1. Visit the live demo at [https://github.com/VishalMaurya15031/coffee-shop](https://github.com/VishalMaurya15031/coffee-shop)
 2. Browse the menu and products
 3. Use the contact form to get in touch
 
