@@ -11,7 +11,7 @@
 ```markdown
 ## 🎉 Coffee Shop Website v1.0.0 - Initial Release
 
-Welcome to the first official release of our modern coffee shop website! ☕
+Welcome to the  official release of our modern coffee shop website! ☕
 
 ### ✨ What's New
 
@@ -36,7 +36,7 @@ Welcome to the first official release of our modern coffee shop website! ☕
 - Social media integration
 
 ### 🚀 Live Demo
-👉 **[View Live Website](https://prabasajee.github.io/coffee-shop)**
+👉 **[View Live Website](https://github.com/VishalMaurya15031/coffee-shop)**
 
 ### 🛠️ Technical Highlights
 - HTML5, CSS3, JavaScript
@@ -46,19 +46,19 @@ Welcome to the first official release of our modern coffee shop website! ☕
 - Performance optimized
 
 ### 📥 How to Use
-1. **Live Demo**: Visit [prabasajee.github.io/coffee-shop](https://prabasajee.github.io/coffee-shop)
+1. **Live Demo**: Visit [VishakMaurya.github.io/coffee-shop](https://github.com/VishalMaurya15031/coffee-shop)
 2. **Download**: Use the source code below
 3. **Development**: Clone and run `npm install && npm start`
 
 ### 🐛 Bug Reports
-Found an issue? Please [report it here](https://github.com/prabasajee/coffee-shop/issues)
+Found an issue? Please [report it here](https://github.com/VishalMaurya15031/coffee-shop/issues)
 
 ### 🤝 Contributing
-Want to contribute? Check our [Contributing Guidelines](https://github.com/prabasajee/coffee-shop/blob/main/docs/CONTRIBUTING.md)
+Want to contribute? Check our [Contributing Guidelines](https://github.com/VishalMaurya15031/coffee-shop/blob/main/docs/CONTRIBUTING.md)
 
 ---
 
-**Full Changelog**: [CHANGELOG.md](https://github.com/prabasajee/coffee-shop/blob/main/CHANGELOG.md)
+**Full Changelog**: [CHANGELOG.md](https://github.com/VishalMaurya15031/coffee-shop/blob/main/CHANGELOG.md)
 ```
 
 ### Pre-release Checkbox:
@@ -97,21 +97,21 @@ Want to contribute? Check our [Contributing Guidelines](https://github.com/praba
 - Technical change 2
 
 ### 🚀 Live Demo
-👉 **[View Live Website](https://prabasajee.github.io/coffee-shop)**
+👉 **[View Live Website](https://github.com/VishalMaurya15031/coffee-shop)**
 
 ### 📥 Installation
 ```bash
-git clone https://github.com/prabasajee/coffee-shop.git
+git clone https://github.com/VishalMaurya15031/coffee-shop.git
 cd coffee-shop
 npm install
 npm start
 ```
 
 ### 🔗 Links
-- **Live Demo**: [Website](https://prabasajee.github.io/coffee-shop)
-- **Documentation**: [README](https://github.com/prabasajee/coffee-shop#readme)
-- **Issues**: [Report Bug](https://github.com/prabasajee/coffee-shop/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/prabasajee/coffee-shop/discussions)
+- **Live Demo**: [Website](https://github.com/VishalMaurya15031/coffee-shop)
+- **Documentation**: [README](https://github.com/VishalMaurya15031/coffee-shop#readme)
+- **Issues**: [Report Bug](https://github.com/VishalMaurya15031/coffee-shop/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/VishalMaurya15031/coffee-shop/discussions)
 
-**Full Changelog**: [v{PREVIOUS_VERSION}...v{VERSION}](https://github.com/prabasajee/coffee-shop/compare/v{PREVIOUS_VERSION}...v{VERSION})
+**Full Changelog**: [v{PREVIOUS_VERSION}...v{VERSION}](https://github.com/VishalMaurya15031/coffee-shop/compare/v{PREVIOUS_VERSION}...v{VERSION})
 ```
