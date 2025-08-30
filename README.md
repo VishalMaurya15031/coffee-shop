@@ -62,7 +62,7 @@ coffee-shop/
 ### Option 2: Development Setup
 ```bash
 # Clone the repository
-git clone https://github.com/prabasajee/coffee-shop.git
+git clone https://github.com/VishalMaurya15031/coffee-shop.git
 
 # Navigate to project directory
 cd coffee-shop
@@ -121,5 +121,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Star this repository if you found it helpful!
 
 **[🔗 Live Demo](https://github.com/VishalMaurya15031/coffee-shop)** | **[📧 Report Bug](https://github.com/VishalMaurya15031/coffee-shop)** | **[💡 Request Feature](https://github.com/VishalMaurya15031/coffee-shop)**
+
 
 
